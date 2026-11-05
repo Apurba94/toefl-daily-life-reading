@@ -1,0 +1,11 @@
+{
+ "name": "toefl-daily-life-reading",
+ "title": "Read in Daily Life Practice",
+ "exam": "TOEFL",
+ "area": "TOEFL Reading and Listening",
+ "desc": "Read notices, emails, menus and schedules and answer questions about them, as in the new Reading section.",
+ "content": [
+  "daily_texts.json"
+ ],
+ "n": 52
+}
